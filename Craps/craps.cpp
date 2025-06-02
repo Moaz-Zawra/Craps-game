@@ -10,7 +10,7 @@
 //
 // Program name: craps.cpp
 //
-// Last date modified: March 22, 2021
+// Last date modified: June 01, 2025
 //
 // Problem statement: This C++ program takes in an integer parameter via a void function to generate a random dice roll, returns the sum of the two given rolls, via two added integer parameters, and outputs a message to the user describing the two rolled values and their sum
 //
