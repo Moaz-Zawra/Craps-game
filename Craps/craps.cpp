@@ -2,15 +2,13 @@
 //
 // Student name: Moaz Zawra
 //
-// Student number: 200449085
-//
 // Dr. Cory Butz
 //
 // Assignment number: CS 110 Assignment #3
 //
 // Program name: craps.cpp
 //
-// Last date modified: June 01, 2025
+// Last date modified: June 11, 2025
 //
 // Problem statement: This C++ program takes in an integer parameter via a void function to generate a random dice roll, returns the sum of the two given rolls, via two added integer parameters, and outputs a message to the user describing the two rolled values and their sum
 //
